@@ -1,0 +1,21 @@
+25 20
+############mmmmmmmmmmmmm
+#k#........#mmmmmm#######
+#s#........########.....#
+#s#.........sd..........#
+#...........######....p.#
+#...........#tttt#......#
+#.......#d#.#tttt#......#
+#.......#w#.#mmmm#......#
+#####..######mmmm###s####
+rrrr#ss#rrrrrrrrrrr#s#rrr
+rrrr#..#rrrrrrrrrrr#s#rrr
+mmmm#..#mmmmmm######s#rrr
+mm###..#mmmtmm#......#rrr
+mm#....#mmmmmm#......#rrr
+tm#....#mmtmmm#......#rrr
+mm#....#mmmmtm#......#rrr
+mt#....#mtmmmm#......#rrr
+mm#....#mmmmtm#......#rrr
+mm#.@..#mtmmmm#.....n#rrr
+mm######mmmmmm########rrr

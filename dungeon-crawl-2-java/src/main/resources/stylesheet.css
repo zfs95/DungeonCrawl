@@ -1,0 +1,12 @@
+.button{
+    -fx-padding: 20;
+    -fx-background-radius: 7;
+}
+
+.root{
+    -fx-background-color: #06457f;
+}
+
+.text-field{
+    -fx-background-radius:7 ;
+}
