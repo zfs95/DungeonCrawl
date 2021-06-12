@@ -15,12 +15,10 @@ Roguelikes are the oldest types of video games, the earliest ones were made in t
   <img src="./dungeon-crawl-2-java/screenshot/dungeon.png" alt="Size Limit CLI" width="738">
 </p>
 
-<p align="center">
-  <img src="./dungeon-crawl-2-java/screenshot/fight.png" alt="Size Limit CLI" width="738">
-</p>
-
-
 ## How it works
 Dungeon Crawl is a game where you, 
 the player, need to defeat the monsters and escape, through getting items scattered around the map. 
 
+<p align="center">
+  <img src="./dungeon-crawl-2-java/screenshot/fight.png" alt="Size Limit CLI" width="738">
+</p>
