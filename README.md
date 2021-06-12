@@ -12,11 +12,11 @@ Roguelikes are the oldest types of video games, the earliest ones were made in t
 
 
 <p align="center">
-  <img src="./screenshot/dungeon.png" alt="Size Limit CLI" width="738">
+  <img src="./dungeon-crawl-2-java/screenshot/dungeon.png" alt="Size Limit CLI" width="738">
 </p>
 
 <p align="center">
-  <img src="./screenshot/fight.png" alt="Size Limit CLI" width="738">
+  <img src="./dungeon-crawl-2-java/screenshot/fight.png" alt="Size Limit CLI" width="738">
 </p>
 
 
